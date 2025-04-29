@@ -1,6 +1,6 @@
 # MFDR-Net
 
-This repo is an official implementation of the *IFENet*.
+This repo is an official implementation of the *MFDR-Net*.
 **The code will be released after the acceptance of the paper.**
 
 
